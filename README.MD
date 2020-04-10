@@ -29,5 +29,5 @@ npm run build
 
 © Alain T. Dimabuyo
 
-Licensed under the [MIT License](LICENSE).
+
 
