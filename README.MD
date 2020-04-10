@@ -1,6 +1,5 @@
-# 2020-ncov-frontend
+# covid19-tracker
 
-> Coronavirus (COVID-19) Frontend
 2D visualization of latest data regarding Coronavirus cases
 API can be found here (https://github.com/mathdroid/covid-19-api).
 
