@@ -1,8 +1,10 @@
 # 2020-ncov-frontend
 
 > Coronavirus (COVID-19) Frontend
-
+2D visualization of latest data regarding Coronavirus cases
 API can be found here (https://github.com/mathdroid/covid-19-api).
+
+Plotted using [mapbox.gl](https://github.com/mapbox/mapbox-gl-js)
 
 ## Project setup
 
